@@ -3,7 +3,7 @@ Project Helios was created to attend the challange "You Are My Sunshine" from Na
 
 The app monitors solar irradiance and estipulates energy generation based on user location, or any other location selected by the user. 
 
-Users can input the value from energy bills, and the total energy that was used last month to calculate how many money they can save per solar plate installed on the house, depending on the sunlight incidence in the location.
+Users can input the value from energy bills, and the total energy that was used last month to calculate how much money they can save per solar plate installed on the house, depending on the sunlight incidence in the location.
 
 Graphics can also be displayed with historical info about irradiance based on period selected by the user.
 
