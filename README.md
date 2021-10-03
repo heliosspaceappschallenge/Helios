@@ -7,7 +7,7 @@ Users can input the value from energy bills, and the total energy that was used 
 
 Graphics can also be displayed with historical info about irradiance based on period selected by the user.
 
-#So, lets take a tour on the app!
+# So, lets take a tour on the app!
 
 Splash Page:
 
@@ -72,7 +72,7 @@ It shows graphics for UVA and UVB Irradiance.
 
 All the data used to create this graphics were provided by the NASA POWER API, using the archives created by NASA DATA ACESS VIEW.
 
-#Thats all folks!
+# Thats all folks!
 
 You can find the prototype and preview on the following link: https://www.figma.com/community/file/1026591561762784769
 Thanks for your time, and helps us make the planet more susteinable by sharing information of renewable energy!
