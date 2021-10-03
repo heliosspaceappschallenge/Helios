@@ -13,7 +13,7 @@ Splash Page:
 
 ![Splash page](https://user-images.githubusercontent.com/91791747/135771458-92389d6c-389e-4817-8a6b-5720a1cf7857.png)
 
-The splash page pops open when you first open the app. Its just a nice display of our logo, with and awesome photo background provided by NASA.
+The splash page pops up when you first open the app. Its just a nice display of our logo, with and awesome photo background provided by NASA.
 
 Location Page:
 
